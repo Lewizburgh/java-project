@@ -2,6 +2,6 @@
 
 class Simple{
    public static void main(String[] args) {
-     System.out.printLn("DevOps Engineer The Best!");
+     System.out.print ("DevOps Engineer The Best!");
 	}
 }
